@@ -159,7 +159,7 @@ fiveItme.style.backgroundColor = "#b6e4fb";
 // console.log(lownumList)
 // }
 
-// lownumoL
+// lownumoLs
 // lownumLists
 
 for (const lownumList of lowNumLists) {
@@ -198,19 +198,11 @@ const lowNumlist2 = lowlistItems[1];
 const lowNumlist3 = lowlistItems[2];
 const lowNumlist4 = lowlistItems[3];
 const lowNumlist5 = lowlistItems[4];
-
 const lowNumlist6 = lowlistItems[5];
-
 const lowNumlist7 = lowlistItems[6];
-
 const lowNumlist8 = lowlistItems[7];
-
 const lowNumlist9 = lowlistItems[8];
 const lowNumlist10 = lowlistItems[9];
-
-
-
-
 
 lowNumlist1.style.backgroundColor = "black";
 lowNumlist1.style.color = "white";
@@ -237,32 +229,21 @@ lowNumlist9.style.color = "white";
 lowNumlist10.style.backgroundColor = "white";
 
 
-
-
-
 const HighNumlist1 = highlistItems[0];
 const HighNumlist2 = highlistItems[1];
 const HighNumlist3 = highlistItems[2];
 const HighNumlist4 = highlistItems[3];
 const HighNumlist5 = highlistItems[4];
-
 const HighNumlist6 = highlistItems[5];
-
 const HighNumlist7 = highlistItems[6];
-
 const HighNumlist8 = highlistItems[7];
-
 const HighNumlist9 = highlistItems[8];
 const HighNumlist10 = highlistItems[9];
-
-
-
 
 
 HighNumlist1.style.backgroundColor = "white";
 
 HighNumlist2.style.color = "white";
-
 
 HighNumlist3.style.backgroundColor = "white";
 
@@ -274,26 +255,17 @@ HighNumlist5.style.backgroundColor = "white";
 HighNumlist6.style.backgroundColor = "black";
 HighNumlist6.style.color = "white";
 
-
 HighNumlist7.style.backgroundColor = "white";
 
 HighNumlist8.style.backgroundColor = "black";
 HighNumlist8.style.color = "white";
 
-
 HighNumlist9.style.backgroundColor = "white";
-
-
 
 HighNumlist10.style.backgroundColor = "black";
 HighNumlist10.style.color = "white";
 
-
-
-
-
 //
-
 
 
 const alpahabatelist1 = alpahabatelistItems[0];
@@ -301,26 +273,19 @@ const alpahabatelist2 = alpahabatelistItems[1];
 const alpahabatelist3 = alpahabatelistItems[2];
 const alpahabatelist4 = alpahabatelistItems[3];
 const alpahabatelist5 = alpahabatelistItems[4];
-
 const alpahabatelist6 = alpahabatelistItems[5];
-
 const alpahabatelist7 = alpahabatelistItems[6];
-
 const alpahabatelist8 = alpahabatelistItems[7];
-
 const alpahabatelist9 = alpahabatelistItems[8];
 const alpahabatelist10 = alpahabatelistItems[9];
-
-
 
 
 
 alpahabatelist1.style.backgroundColor = "black";
 alpahabatelist1.style.color = "white";
 
+
 alpahabatelist2.style.backgroundColor = "white";
-
-
 
 alpahabatelist3.style.backgroundColor = "black";
 alpahabatelist3.style.color = "white";
@@ -331,14 +296,10 @@ alpahabatelist4.style.backgroundColor = "white";
 alpahabatelist5.style.backgroundColor = "black"
 alpahabatelist5.style.color = "white";
 
-
-
-alpahabatelist7.style.color = "black";
+alpahabatelist7.style.backgroundColorgit = "black";
 alpahabatelist7.style.color = "white";
 
-
 alpahabatelist8.style.backgroundColor = "white";
-
 
 alpahabatelist9.style.backgroundColor = "black";
 alpahabatelist9.style.color = "white";
