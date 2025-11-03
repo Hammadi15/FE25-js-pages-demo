@@ -1,4 +1,4 @@
-const rowList = ["Row1", "Row2", "Row3", "Row4", "Row5"];
+const rowList = ["Rad 1", "Rad 2", "Rad 3", "Rad 4", "Rad 5"];
 const oL = document.createElement("ol");
 document.body.appendChild(oL);
 
@@ -54,7 +54,7 @@ thirdItme.style.alignItems = "center";
 thirdItme.style.margin = "20px";
 thirdItme.style.width = "100%";
 thirdItme.style.height = "60px"; // makes it taller
-thirdItme.style.fontSize = "24px";
+thirdItme.style.fontSize = "34px";
 
 thirdItme.style.textAlign = "center";
 thirdItme.style.backgroundColor = "#b6fbe4";
@@ -71,7 +71,7 @@ fourdItme.style.alignItems = "center";
 fourdItme.style.margin = "20px";
 fourdItme.style.width = "100%";
 fourdItme.style.height = "80px"; // makes it taller
-fourdItme.style.fontSize = "24px";
+fourdItme.style.fontSize = "44px";
 
 fourdItme.style.textAlign = "center";
 fourdItme.style.backgroundColor = "#b6fbfb";
@@ -87,7 +87,7 @@ fiveItme.style.alignItems = "center";
 fiveItme.style.margin = "20px";
 fiveItme.style.width = "100%";
 fiveItme.style.height = "100px"; // makes it taller
-fiveItme.style.fontSize = "24px";
+fiveItme.style.fontSize = "54px";
 
 fiveItme.style.textAlign = "center";
 fiveItme.style.backgroundColor = "#b6e4fb";
